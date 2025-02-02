@@ -7,6 +7,7 @@ public class welcome {
 		
 		        System.out.println("Welcome to Java");
 		 System.out.println("Welcome to Elysium");
+		 System.out.println("Good Afternoon");
 		
 		    }
 	
